@@ -1,0 +1,19 @@
+.slider h3,
+.slider h5,
+.resume h3 {
+	text-shadow: 2px 2px 7px rgba(0, 0, 0, .7);
+}
+
+.slides img {
+	filter: grayscale(60%);
+}
+
+section, footer {
+	padding: 20px 0px;
+}
+
+.about img,
+.about .card-panel,
+.resume .card-panel {
+	filter: drop-shadow(3px 0px 5px rgba(0, 0, 0, .8));
+}
